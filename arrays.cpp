@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> fdfa87c943fc9c422d208413d741304dd9a50ab2
 //arrays-
 /*
 #include<bits/stdc++.h>
@@ -37,4 +41,8 @@ int main(){
     arr[3][4]=89;      // 2D array is used to help in solving matrix probelms and graph problems.
     cout << arr[2][1];
 }
+<<<<<<< HEAD
 */
+=======
+*/
+>>>>>>> fdfa87c943fc9c422d208413d741304dd9a50ab2
