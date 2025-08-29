@@ -63,7 +63,7 @@ int main() {
 
 //Summary:
 // You created a function printName() that prints any string.
-// You reused it for 'name' and 'name1' without rewriting the printing code.
+// You reused it for 'name1' and 'name2' without rewriting the printing code.
 // The 'name' inside the function is just a local placeholder (parameter).
 // Code reusability: one function, used multiple times for different inputs
 
