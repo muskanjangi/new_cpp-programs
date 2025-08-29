@@ -68,7 +68,7 @@ int main() {
 // Code reusability: one function, used multiple times for different inputs
 
 //Important Point:
-//The name in main and the name in printName are different variables (they just happen to have the same name).
+//The name1 and name2 in main and the name in printName are different variables (they just happen to have the same name).
 //Their scopes are different:
 //main’s name exists only in main.
 //printName’s name exists only while the function runs.
